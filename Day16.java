@@ -16,7 +16,7 @@ class Solution {
             maxExist[charIndex] = Math.max(maxExist[charIndex], i);
         }
 
-        // Variable to store the final count of unique palindromic subsequences
+        // Variable to store the final count of unique palindromic 
         int uniqueCount = 0;
 
         // Iterate over each character in the alphabet
